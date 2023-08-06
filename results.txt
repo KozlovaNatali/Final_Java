@@ -1,0 +1,10 @@
+ID: 3, Name: Doll, Weight: 6
+ID: 1, Name: Constructor, Weight: 2
+ID: 3, Name: Doll, Weight: 6
+ID: 3, Name: Doll, Weight: 6
+ID: 3, Name: Doll, Weight: 6
+ID: 3, Name: Doll, Weight: 6
+ID: 1, Name: Constructor, Weight: 2
+ID: 3, Name: Doll, Weight: 6
+ID: 3, Name: Doll, Weight: 6
+ID: 3, Name: Doll, Weight: 6
